@@ -17,7 +17,7 @@ All platforms
 
 Mac OS X specific
 -----------------
-- Download Syphon Framework (http://syphon-framework.googlecode.com/) and add it to /Library/Frameworks folder
+- Download Syphon Framework (https://github.com/Syphon/Syphon-Framework) and add it to /Library/Frameworks folder
 - If you want to build IanniX with Kinect support, you'll need libfreenect (http://openkinect.org/wiki/Getting_Started)
 
 Linux
